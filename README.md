@@ -26,7 +26,7 @@ $ npm run test:cov
 
 <br>
 
-## 👨‍💻Technologies used
+## 👨‍💻Used Technologies
 
 ✔ Angular
 
